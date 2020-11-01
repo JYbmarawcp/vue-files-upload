@@ -2,7 +2,8 @@
 
 ## 启动
 
-* npm run start
+* npm run dev
+* npm run server
 * 后端访问端口：3003
 
 ## Attribute
